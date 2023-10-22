@@ -13,7 +13,7 @@
 
 #### 爬取界面
 
-![外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传](https://img-home.csdnimg.cn/images/20230724024159.png?origin_url=C%3A%5CUsers%5Cnishiy![在这里插入图片描述](https://img-blog.csdnimg.cn/15e37adb253f4b62a39b761bf1cf9ba5.png#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/15e37adb253f4b62a39b761bf1cf9ba5.png#pic_center)
 
 - 我们需要通过本页面，找到水浒传所有章节对应的`url`，从而获取每一个章节的信息
 
